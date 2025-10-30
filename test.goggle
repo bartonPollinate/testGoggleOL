@@ -1,0 +1,8 @@
+! name: OL Goggle
+! description: for search on OL
+! public: false
+! author: Barton White (Pollinate)
+! avatar: #ffffff
+
+
+/wp-json/$discard,site=oregonlottery.org
