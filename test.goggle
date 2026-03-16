@@ -9,3 +9,4 @@
 /json-retailerapi/$discard,site=oregonlottery.org
 /raffle/check/$discard,site=oregonlottery.org
 $discard,site=pubwebgw-test.oregonlottery.org
+$discard,site=pubweb-fdtest.oregonlottery.org
